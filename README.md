@@ -8,6 +8,7 @@ Since the final graded assignment will be managed through GitHub Classroom, it i
 - How to accept your assignments
 - How to commit code with your solutions
 - How to ask for help and review
+- ##I'm just adding this to test my stuff##
 
 
 ## Using GitHub
